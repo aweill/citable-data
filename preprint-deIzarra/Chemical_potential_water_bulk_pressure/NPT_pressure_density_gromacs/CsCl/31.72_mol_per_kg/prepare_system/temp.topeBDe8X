@@ -1,8 +1,0 @@
-#include "../../../oplsaa_ambroise.ff/forcefield.itp"
-#include "../../../oplsaa_ambroise.ff/tip4p.itp"
-#include "../../../oplsaa_ambroise.ff/ions.itp"
-
-[ System ]
-system in water
-
-[ Molecules ]
